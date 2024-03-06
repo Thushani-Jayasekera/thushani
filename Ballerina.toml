@@ -1,0 +1,10 @@
+[package]
+org = "thushani"
+name = "validateheds"
+version = "3.0.0"
+export = ["validateheds"]
+distribution = "2201.5.5"
+keywords = ["choreo-apim-mediation-policy","choreo-apim-mediation-request-flow","choreo-apim-mediation-response-flow","choreo-apim-mediation-fault-flow"]
+
+[build-options]
+observabilityIncluded = true
